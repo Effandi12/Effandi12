@@ -70,8 +70,6 @@ I'm an experienced **Frontend Developer** with a solid background in **Backend D
 
 I'm always looking to collaborate on interesting projects or contribute to open-source. Feel free to reach out to me:
 
-- [LinkedIn](https://www.linkedin.com/in/raja-ahmed-afandi-114b87234)
-- [Email](effandiahmed32@gmail.com)
 
 Let's build something amazing together! 💥
 
