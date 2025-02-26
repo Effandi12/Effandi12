@@ -1,4 +1,4 @@
-# 👨‍💻 Hello, I'm Effendi👋
+# 👨‍💻 Hello, I'm Effandi👋
 
 I'm an experienced **Frontend Developer** with a solid background in **Backend Development**. Passionate about creating modern, user-friendly applications, I specialize in building scalable web and mobile apps with a focus on performance and design.
 
